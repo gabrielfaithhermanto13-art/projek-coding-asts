@@ -1,0 +1,181 @@
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    .navbar{
+        width: 100%;
+        height: 100vh;
+    }
+    .lenovo{
+        width: 100%;
+        height: 100vh;
+        border: 2px solid black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .bks-lenovo{
+        width: 150%;
+        height: 100vh;
+        border: 2px solid green;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 10%;
+    }
+    .bks-lenovo2{
+        width: 40%;
+        height: 40vh;
+        border: 2px solid red;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+}
+.bks-lenovo2 img{
+    width: 100%;
+    height: 40vh;
+}
+.pessage{
+    width: 50%;
+    height: 40vh;
+    border: 2px solid red;
+}
+.photo{
+    width: 50%;
+    height: 40vh;
+    border: 2px solid blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.expl{
+    width: 100%;
+    height: 3vh;
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.specs{
+    width: 100%;
+    height: 3vh;
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.asusphoto{
+    width: 50%;
+    height: 40vh;
+    border: 2px solid blue;
+}
+.asus{
+    width: 50%;
+    height: 40vh;
+    border: 2px solid green;
+}
+.asus2{
+    width: 100%;
+    height: 4vh;
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.asus3{
+    width: 100%;
+    height: 3vh;
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lens{
+    width: 100%;
+    height: 5vh;
+    border: 2px solid violet;
+}
+.loq{
+    width: 50%;
+    height: 40vh;
+    border: 2px solid blue;
+}
+.legion{
+    width: 50%;
+    height: 40vh;
+    border: 2px solid green;
+}
+.asus4{
+    width: 100%;
+    height: 3vh;
+    border: 2px solid violet;
+}
+.legion2{
+    width: 100%;
+    height: 4vh;
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;         
+}
+.legion3{
+    width: 100%;
+    height: 2vh;
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+}
+.HP{
+    width: 50%;
+    height: 40vh;
+    border: 2px solid blue;
+}
+.hp2{
+    width: 50%;
+    height: 40vh;
+    border: 2px solid blue;
+}
+.hp3{
+    width: 100%;
+    height: 6vh;
+    border: 2px solid green;
+}
+.hp4{
+    width: 100%;
+    height: 2vh;
+    border: 2px solid green;
+}
+.hp5{
+    width: 100%;
+    height: 5vh;
+    border: 2px solid red;
+}
+.legion4{
+    width: 100%;
+    height: 8vh;
+    border: 2px solid red;
+}
+.legionreal{
+    width: 100%;
+    height: 4vh;
+    border: 2px solid red;
+}
+@media (max-width: 500px) {
+    .expl{
+        font-size: 9px ;
+    }
+.specs{
+    font-size: 8px;
+}
+.photo{
+    font-size: 8px;
+}
+.asus{
+    font-size: 8px;
+}
+.legion{
+    font-size: 7px;
+}
+.hp2{
+    font-size: 8px;
+}
+}

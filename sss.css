@@ -1,0 +1,711 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.a1{
+    width: 20%;
+    height: 10vh;
+    display: flex;
+    align-items: center; 
+    justify-content: end;
+    border: 2px solid black;
+}
+.kanz{
+    width: 60%;
+    height: 10vh;
+    border: 2px solid green;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+.bkskanz{
+    width: 45%;
+    height: 10vh;
+    border: 2px solid green;
+    display: flex;
+    align-items: center;
+    gap: 3%;
+    border: 2px solid brown;
+    font-size: 20px;
+}
+.alt{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+    background-color: gray;
+}
+.div{
+    width: 100%;
+    height: 10vh;
+    border: 2px solid green;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.altbk{ 
+    width: 70%;
+    height: 90vh;
+    border: 2px solid red;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+.div1{
+    width: 60%;
+    height: 70vh;
+    border: 2px solid green;
+}
+.div2{
+    width: 40%;
+    height: 65vh;
+}
+.everysinglesolutions{
+    width: 100%;
+    height: 5vh;
+    display: flex;
+}
+.design{
+    width: 50%;
+    height: 15vh;
+    font-size: 20px;
+}
+.p{
+    width: 50%;
+    height: 10vh;
+    font-size: 10px;
+}
+.button{
+    width: 60%;
+    height: 7vh;
+    border: 2px solid maroon;
+    display:flex;
+    align-items: center;
+    gap: 2%;
+}
+.button a{
+    width: 30%;
+    height: 7vh;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+}
+.hp{
+    width: 100%;
+    height: 100vh;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fht{
+    width: 70%;
+    height: 70vh;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.s1{
+    width: 100%;
+    height: 15vh;
+    border: 2px solid red;
+}
+.pembatas{
+    width: 100%;
+    height: 1vh;
+    border: 2px solid magenta;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.isi{
+    width: 100%;
+    height: 30vh;
+    border: 2px solid blue;
+}
+.isi-2{
+    width: 100%;
+    height: 17vh;
+    border: 2px solid black;
+}
+.s2{
+    width: 100%;
+    height: 24vh;
+    border: 2px solid red;  
+}
+.bkss2{
+    width: 50%;
+    height: 24vh;
+    border: 2px solid black;
+}
+.bksss3{
+    width: 5 0%;
+    height: 24vh;
+    border: 2px solid yellow ;
+}
+.fht-2{
+    width: 50%;
+    height: 70vh;
+    border: 2px solid red;
+}
+.fht-3{
+    width: 45%;
+    height: 70vh;
+    border: 2px solid blue;
+}
+.isi-fht-3{
+    width: 100%;
+    height: 10vh;
+    border: 2px solid red;
+}
+.email{
+    width: 100%;
+    height: 15vh;
+    border: 2px solid black;
+
+}
+.email a{
+    color: black;
+}
+.design{
+    width: 100%;
+    height: 55vh;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bks-design{
+    width: 100%;
+    height: 55vh;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bks-design-2{
+    width: 70%;
+    height: 55vh;
+    border: 2px solid blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box{
+    width: 30%;
+    height: 45vh;
+    border: 2px solid red;
+}
+.pic{
+    width: 100%;
+    height: 15vh;
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bks-pic{
+    width: 20%;
+    height: 8vh;
+    border: 2px solid red;
+    border-radius: 50%;
+}
+.bks-pic img{
+    width: 100%;
+    height: 8vh;
+    border-radius: 30px;
+}
+.desk{
+    width: 100%;
+    height: 8vh;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ket{
+    width: 100%;
+    height: 20vh;
+    border: 2px solid magenta;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.whatservice{
+    width: 100%;
+    height: 30vh;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.whatservice2{
+    width: 100%;
+    height: 30vh;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.whatservice3{
+    width: 30%;
+    height: 30vh;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+.fotoall{
+    width: 100%;
+    height: 60vh;
+    border: 2px solid  purple;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+.fotoall2{
+    width: 50%;
+    height: 60vh;
+    border: 2px solid green;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+.fotoall3{
+    width: 40%;
+    height: 60vh;
+    border: 5px solid green;
+}
+.fotoall4{
+    width: 40%;
+    height: 30vh;
+    border: 5px solid blue;
+}
+.fotoall5{
+    width: 40%;
+    height: 30vh;
+    border: 5px solid blue;
+}
+.fotoall5 img{
+    width: 100%;
+    height: 30vh;
+}
+.fotoall4 img{
+    width: 100%;
+    height: 30vh;
+}
+.fotoall6{
+    width: 100%;
+    height: 30vh;
+    border: 2px solid magenta;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fotoall7{
+    width: 20%;
+    height: 30vh;
+    border: 5px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fotoall8{
+    width: 20%;
+    height: 30vh;
+    border: 5px solid blue;
+}
+.fotoall9{
+        width: 20%;
+    height: 30vh;
+    border: 5px solid blue;
+}
+.fotoall7 img{
+    width: 100%;
+    height: 30vh;
+}
+.fotoall8 img{
+    width: 100%;
+    height: 30vh;
+}
+.fotoall9 img{
+    width: 100%;
+    height: 30vh;
+}
+.worrydont{
+    width: 100%;
+    height: 30vh;
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.worrydont2{
+    width: 50%;
+    height: 30vh;
+    border: 6px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.worrydont3{
+    width: 50%;
+    height: 30vh;
+    border: 5px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contactmenow{
+    width: 20%;
+    height: 7vh;
+    border: 2px solid maroon;
+    background-color: red;
+    display:flex;
+    align-items: center;
+    gap: 2%;
+}
+.contactmenow a{
+    width: 90%;
+    height: 7vh;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+}
+.possitive{
+    width: 40%;
+    height: 20vh;
+    border: 2px solid blue;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.warren{
+    width: 100%;
+    height: 30vh;
+    border: 5px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.warren1{
+    width: 20%;
+    height: 30vh;
+    border: 5px solid blue;
+}
+.warren2{
+    width: 20%;
+    height: 30vh;
+    border: 5px solid blue;
+}
+.warren3{
+    width: 20%;
+    height: 30vh;
+    border: 5px solid blue;
+}
+.warren10{
+    width: 100%;
+    height: 10vh;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+}
+.warren11{
+    width: 30%;
+    height: 10vh;
+    border: 2px solid green;
+    border-radius: 50%  ;
+}
+.warren12{
+    width: 70%;
+    height: 10vh;
+    border: 2px solid magenta;
+}
+.warren11 img{
+    width: 100%;
+}
+.warren13{
+    width: 100%;
+    height: 5vh;
+    border: 2px solid green;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.warren14{
+    width: 100%;
+    height: 5vh;
+    border: 2px solid magenta;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}
+.warren91{
+    width: 100%;
+    height: 10vh;
+    border: 2px solid green;
+}
+.wowo{
+    width: 100%;
+    height: 20vh;
+    border: 5px solid green;
+}
+.wowo img{
+    width: 100%;
+    height: 20vh;
+}
+.fotoabram{
+    width: 50%;
+    height: 70vh;
+    border: 2px solid red;
+}
+.fotoabram img{
+    width: 100%;
+    height: 70vh;
+}
+.dolor{
+    width: 100%;
+    height: 50vh;
+    border: 5px solid magenta;
+    display: flex;
+    justify-content: left;
+}
+.dolor1{
+    width: 50%;
+    height: 50vh;
+    border: 2px solid green;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.dolor2{
+     width: 50%;
+     height: 50vh;
+     border: 2px solid blue;
+}
+.dolor11{
+    width: 30%;
+    height: 20vh;
+    border: 3px solid green;
+}
+.dolor12{
+    width: 100%;
+    height: 10vh;
+    border: 2px solid magenta;
+}
+.ayam{
+    width: 100%;
+    height: 30vh;
+    border: 3px solid green;
+    background-color: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ayam1{
+    width: 33%;
+    height: 20vh;
+    border: 3px solid green;
+}
+.ayamporfolio{
+    width: 100%;
+    height: 5vh;    
+    border: 2px solid violet;
+}
+.ayamportfolio img{
+    width: 100%;
+}
+.ayampegawai{
+    width: 100%;
+    height: 5vh;
+    border: 3px solid lightblue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ayam22b{
+    width: 100%;
+    height: 2vh;
+    border: 3px solid green;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ayampark{
+    width: 100%;
+    height: 2vh;
+    border: 2px solid blue;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ayampoto{
+    width: 100%;
+    height: 3vh;
+    border: 2px solid brown;
+}
+.ayampoto img{
+    width: 100%;
+}
+.dolor3{
+    width: 100%;
+    height: 6vh;
+    border: 2px solid green;
+}
+.dolor4{
+    width: 100%;
+    height: 6vh;
+    border: 2px solid blue;
+}
+.dolor5{
+    width: 100%;
+    height: 20vh;
+    border: 2px solid gold;
+}
+.dolor6{
+    width: 100%;
+    height: 5vh;
+    border: 2px solid red;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dolor2 input{
+    width: 100%;
+    height: 5vh;
+}
+.dolor5 input{
+    width: 100%;
+    height: 18vh;
+}
+@media (max-width: 500px) {
+.div{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    }
+.fotoabram{
+    width: 95%;
+    margin-right: 8px;
+    height: 300px;
+    margin-top: 20px;
+}
+.fotoabram img{
+    height: 300px;
+    width: 350px;    
+}
+.altbk{
+    width: 100%;
+    height: 700px;
+    flex-wrap: wrap;
+}
+.alt{
+    height: 700px;
+}
+.div1{
+    width: 95%;
+    margin-right: 8px;
+    height: 300px;
+}
+.everysinglesolutions{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.everysinglesolutions p{
+    margin-top: 20px;
+}
+.bkskanz{
+    width: 60%;
+    font-size: 16px;
+    flex-wrap: wrap;
+    display: flex;
+    text-align: center;
+}
+.a1{
+    width: 25%;
+}
+.design{
+    height: 100px;
+}
+.p{
+    width: 100%;
+}
+.p p{
+    width: 100%;
+}
+.h1{
+    font-size: 5px;
+}
+.h2{
+    font-size: 1px;
+}
+.fht{
+    flex-wrap: wrap;
+}
+.isi-fht-3{
+    font-size: 5px;
+}
+.s1{
+    font-size: 5px;
+}
+.desk{
+    font-size: 5px;
+}
+.ket{
+    font-size: 9px;
+}
+.whatservice3{
+    font-size: 9px;
+    width: 50%  ;
+    flex-wrap: wrap ;
+}
+.fotoall2 img{
+    width: 100%;
+}
+.worrydont2{
+    font-size: 11px;
+}
+.possitive{
+    font-size: 11px;
+}
+.warren10{
+    font-size: 10px;
+}
+.dolor11{
+    font-size: 6px;
+}
+.ayampegawai{
+    font-size: 8px;
+}
+.ayam22b{
+    font-size: 10px;
+}
+.ayampark{
+    font-size: 10px;
+}
+.expl{
+    font-size: 6px;
+}
+}
